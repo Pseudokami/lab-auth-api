@@ -22,7 +22,7 @@ This simple project demonstrates how user authentication using JSON Web Tokens w
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Lance-Siyhian16/API-Authentication-JWT.git
+git clone https://github.com/pseudokami/lab-auth-api.git
 cd API-Authentication-JWT/lab-auth-api
 ```
 ### 2. Set up XAMPP and opening your SQL server and Apache
